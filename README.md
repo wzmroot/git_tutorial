@@ -1,2 +1,4 @@
--feature-A
-- fix-B
+    -feature-A
+    - fix-B
+-   -faeture-C
++   -feature-C
